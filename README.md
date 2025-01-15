@@ -1,2 +1,2 @@
-# curso-programaci-n
+# curso-programacion
 Curso de programación inicial
